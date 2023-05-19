@@ -1,4 +1,4 @@
-# Machine-Learning-Specialization-Coursera
+# Machine-Learning-Coursera
 
 Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Andrew Ng on Coursera
 
